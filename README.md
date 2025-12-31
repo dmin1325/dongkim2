@@ -22,7 +22,7 @@
 1. 이 저장소를 클론하거나 zip 파일로 다운로드하세요.
 3. Chrome 브라우저에서 `chrome://extensions`로 이동
 4. 우측 상단에서 **개발자 모드** 활성화
-5. **압축해제된 확장 프로그램을 로드합니다** 클릭 후 `dist` 폴더 선택
+5. **압축해제된 확장 프로그램을 로드합니다** 클릭 후 `dongkim2-main` 폴더 선택
 
 원본 버전 설치 등을 희망한다면 [42-time-extension](https://github.com/enKODING1/42-time-extension) 프로젝트에서 진행해주세요.
 
